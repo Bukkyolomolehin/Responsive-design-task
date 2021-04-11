@@ -1,4 +1,8 @@
-# Responsive-design-task assigned by mentor emmypunch (Omowunmi Adesuyi)
+# Responsive-design-task assigned by mentor emmypunch on slack(
+#Omowunmi Adesuyi)
+#check netlify site below
+
 Zuri responsive-design-task
 
-https://carefree-type.000webhostapp.com/
+
+https://keen-pike-ec80f7.netlify.app
